@@ -1,0 +1,29 @@
+_repo: A-Visit-to-the-United-States-in-1841_11454
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sturge, Joseph
+    birthdate: 1793
+    deathdate: 1859
+    gutenberg_agent_id: '3989'
+    url: http://www.gutenberg.org/2009/agents/3989
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Sturge
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abolitionists -- United States -- History -- 19th century'
+- !lcsh 'Slavery -- United States -- History -- 19th century'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Sturge, Joseph, 1793-1859 -- Travel -- United States'
+- !lcc 'E151'
+- !lcsh 'Antislavery movements -- United States -- History -- 19th century'
+- GITenberg
+title: A Visit to the United States in 1841
+url: http://www.gutenberg.org/ebooks/11454
